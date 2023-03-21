@@ -1,6 +1,6 @@
 # Olá! Eu sou o Rondelli 👋🇮🇹
 
-Sou desenvolvedor web nascido e criado em Mesquita, Rio de Janeiro.
+Sou desenvolvedor web, nascido no Rio de Janeiro. Sou apaixonado por esportes, comida e por boas conversas.
 
 Atualmente estou a procura de uma oportunidade no mercado de tecnologia enquanto estudo para aprimorar minhas habilidades técnicas e de trabalho em equipe.
 
