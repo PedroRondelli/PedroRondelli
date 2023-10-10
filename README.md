@@ -1,8 +1,8 @@
 # Olá! Eu sou o Rondelli 👋🇮🇹
 
-Sou desenvolvedor web, formado pela Driven Education. Descobri o amor pela área numa disciplina de programação, no curso de Biotecnologia pela UFRJ. Percebi que tinha prazer genuino em ensinar meus colegas de classe e desde então desenvolvi mais de 20 projetos Front-end, Back-end e Full stack. 
+Sou desenvolvedor web, formado pela Driven Education. Descobri o amor pela área em uma disciplina de programação no curso de Biotecnologia pela UFRJ. Percebi que tinha prazer genuíno em ensinar meus colegas de classe e, desde então, desenvolvi mais de 20 projetos Front-end, Back-end e Full stack.
 
-Atualmente estou a procura de uma oportunidade no mercado de tecnologia enquanto estudo para aprimorar minhas habilidades técnicas e de trabalho em equipe.
+Atualmente, estou à procura de uma oportunidade no mercado de tecnologia enquanto estudo para aprimorar minhas habilidades técnicas e de trabalho em equipe.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRondelli)](https://github.com/anuraghazra/github-readme-stats)
 -
